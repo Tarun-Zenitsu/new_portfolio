@@ -31,7 +31,7 @@ const Hero = () => {
             words="Transforming Concepts into Seamless User Experiences"
           />
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-            Hi I'm Tarun, a FullStack Developer.
+            Hi I&apos;m Tarun, a FullStack Developer.
           </p>
           <a href="#about">
             <MegicButton

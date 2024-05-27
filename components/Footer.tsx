@@ -12,8 +12,8 @@ const Footer = () => {
           presence to next level?
         </h1>
         <p className="text-white-200 md:my-10 my-5 text-center">
-          Reach out to me today and let's discuss how I can help you to achiev
-          your goals.
+          Reach out to me today and let&apos;s discuss how I can help you to
+          achiev your goals.
         </p>
         <a href="mailto:tarunkumbhar1998@gmail.com">
           <MagicButton
