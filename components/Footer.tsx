@@ -17,7 +17,7 @@ const Footer = () => {
         </p>
         <a href="mailto:tarunkumbhar1998@gmail.com">
           <MagicButton
-            title="let's get in tuch"
+            title="let's get in touch"
             icon={<FaLocationArrow />}
             position="right"
           />
